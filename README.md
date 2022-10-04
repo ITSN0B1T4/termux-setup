@@ -31,11 +31,13 @@ cd termux-setup
 python install.py
 ````
 ### DEMO :
-![DEMO](https://github.com/ITSN0B1T4/webvibe/raw/main/demo.png)
+
+![DEMO](https://raw.githubusercontent.com/ITSN0B1T4/termux-setup/main/demo.png)
 
 
 ### TUTORIAL :
-![DEMO](https://github.com/ITSN0B1T4/webvibe/raw/main/tutorial.GIF)
+
+![TUTORIAL](https://github.com/ITSN0B1T4/termux-setup/raw/main/.tutorial.GIF)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
