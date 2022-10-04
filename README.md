@@ -21,13 +21,13 @@ python/python3, git, lolcat, figlet, cowsay
 pkg up -y
 pkg i python -y
 pkg i git -y
-git clone https://github.com/ITSN0B1T4/termux
+git clone https://github.com/ITSN0B1T4/termux-setup
 ````
 
 <h3 align="left">Run tool :</h3>
 
 ````
-cd termux
+cd termux-setup
 python install.py
 ````
 ### DEMO :
